@@ -1,5 +1,8 @@
 Implement only 2 HTTP requests by Jmeter following the described precоnditions bellow:
 
+Public APi references: http://dev.bitly.com/
+
+
 - use global variable for the server IP (host name) and Port;
 
 1. HTTP request with returned server code 200 (positive case)
